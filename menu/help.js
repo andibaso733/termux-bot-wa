@@ -206,14 +206,13 @@ const donasi = (name) => {
 	return `       
 ╭─≽「 *DONASI AGAR BOT TETAP ONLINE* 」
 ┴
-│✓ *Trakteer: https://trakteer.id/FarhanXCo*
-│✓ *Saweria: https://saweria.co/FarhanXCo*
+│✓ *
+│✓ *
 │
-│✓ ${a}Pulsa: 08311800241${a}
+│✓ ${a}Pulsa: ${a}
 │ *15k Invite Bot Ke Grup selama 1 bulan*
 │
-│✓ ${a}OVO: 08311800241${a}
-│ *10k Invite Bot Ke Group Selama 1 Bulan*
+│✓ $
 ┬
 ╰─────≽「 *BY ${name}* 」
 
